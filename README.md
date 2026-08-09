@@ -24,14 +24,10 @@ Exploring the world of AI, ML,      and Data engineering |                  Pass
 
 -🧠**Always curious, always learning**
 
----
-## 🛠Tech stack
 
 
-**Languages and tools**
-- C programming
   ------
-  ##🌱 Currently learning
+  ## 🌱 Currently learning
   - Advanced Machine learning concept s
   - Data engineering practices
 
