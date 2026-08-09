@@ -1,5 +1,5 @@
 😁
-I'm aquina,
+I'm Aquina,
 An aspiring student
 learning btech in artificial intelligence and data science
 
